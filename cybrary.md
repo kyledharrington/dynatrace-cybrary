@@ -42,7 +42,8 @@
 ### Digital Experience
 - Mobile
 - Web
-- Session segmentation Query user sessions 
+- Session segmentation 
+- Query user sessions 
 - Session Replay 
 - Synthetic
 - Custom applications
