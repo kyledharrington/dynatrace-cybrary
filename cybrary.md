@@ -35,8 +35,7 @@
 - Profiling and optimization 
 - Synthetic
 
-
-## Application Security
+### Application Security
 - Security overview 
 - Vulnerabilities
 
